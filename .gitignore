@@ -1,4 +1,30 @@
+# Jupyter
 .ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Temporary files
+tempCodeRunnerFile.*
+*.tmp
+
+# Batch files you don't want committed
 push.bat
-tempCodeRunnerFile.bat
+
+# TensorFlow/Keras model files
+*.keras
+*.h5
+
+# TensorBoard
+logs/
 
